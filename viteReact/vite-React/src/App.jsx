@@ -1,11 +1,17 @@
 import React from 'react'
+import Background from './components/Background'
 
 const App = () => {
   return (
     <>
-        <div className='w-full h-screen flex justify-center items-center'>
-    <h1 className='text-black text-2xl ' >Docs.</h1>
-</div>
+       
+   
+       <div className=' relative  w-full h-screen  bg-zinc-800  flex justify-center items-center'>
+      
+
+       <Background/>
+
+      </div>
 
     </>
   )
