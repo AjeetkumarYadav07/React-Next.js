@@ -17,6 +17,8 @@ const Card = () => {
                 <div className=' tag  bg-sky-300 flex items-center justify-center   w-full    py-4 '>
                      <h4 className=' font-semibold  '>Download Now </h4>
                      </div>
+
+                     
           </div>
       </div>
     </>
